@@ -38,3 +38,12 @@ https://user-images.githubusercontent.com/54504034/147707280-f982163a-0c1a-4f0a-
    - \[d\]: Move Right
    - \[scroll-wheel\]: Zoom
 4. Use sliders to modify the flocking system attributes
+
+References
+---
+<div align="center">
+   <h3>Reference Footage</h3>
+   <a href="http://www.youtube.com/watch?v=eakKfY5aHmY" alt="amazing starlings murmuration (full HD) -www.keepturningleft.co.uk">
+      <img src="http://img.youtube.com/vi/eakKfY5aHmY/0.jpg"/>
+   </a>
+</div>
